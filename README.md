@@ -1,5 +1,5 @@
 # Hi there 👋
 
-### My projects:
+## My projects:
 - `SkillCode`
 - `IO Optimizer`
