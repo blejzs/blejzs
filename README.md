@@ -9,4 +9,4 @@ web  $  hris.sh
 ```
 &zwnj; 
 &zwnj; 
-![](https://komarev.com/ghpvc/?username=blejzs)
+![Visits](https://komarev.com/ghpvc/?username=blejzs)
