@@ -2,8 +2,8 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red_star.svg/220px-Red_star.svg.png" width="147"/> 
 
 ```csharp
-github.com/hriiss
-dc   $  @hris.sh
+github.com/blejzs
+dc   $  @bleejzs
 srv  $  discord.gg/guns
 web  $  hris.sh
 ```
