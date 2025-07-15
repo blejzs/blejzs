@@ -4,8 +4,8 @@
 ```csharp
 github.com/blejzs
 dc   $  @bleejzs
-srv  $  dsc.gg/skillcode
-web  $  skillcode.pl
+srv  $  dsc.gg/sccode
+web  $  sccode.pl
 ```
 &zwnj; 
 &zwnj; 
