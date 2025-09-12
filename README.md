@@ -10,6 +10,7 @@ web  $  sccode.pl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
 
+&zwnj;
 &zwnj; 
 &zwnj; 
 ![](https://komarev.com/ghpvc/?username=blejzs)
