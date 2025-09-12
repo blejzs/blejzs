@@ -16,6 +16,6 @@ web  $  sccode.pl
 </div>
 
 ![Discord](https://img.shields.io/discord/ID?color=7289DA&label=Discord&logo=discord&logoColor=white)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=blejzs)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=1387854649251598448)
 
 
