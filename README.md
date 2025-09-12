@@ -15,7 +15,7 @@ web  $  sccode.pl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-![Discord](https://img.shields.io/discord/1387854649251598448?color=7289DA&label=Discord&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?logo=discord&logoColor=white)](https://discord.gg/TWÓJ_LINK)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=blejzs)
 
 
