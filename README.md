@@ -15,8 +15,11 @@ web  $  sccode.pl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?logo=discord&logoColor=white)](https://discord.gg/TWÓJ_LINK)
-
-
-
-
+<div align="left">
+  <a href="https://twitter.com/blejzs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" height="40" alt="Twitter"/>
+  </a>
+  <a href="https://sccode.pl" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetexplorer.svg" height="40" alt="Website"/>
+  </a>
+</div>
