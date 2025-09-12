@@ -16,8 +16,8 @@ web  $  sccode.pl
 </div>
 
 <div align="left">
-  <a href="https://twitter.com/blejzs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" height="40" alt="Twitter"/>
+  <a href="https://discord.gg/Z7ftEy7mGA" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="40" alt="Twitter"/>
   </a>
   <a href="https://sccode.pl" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetexplorer.svg" height="40" alt="Website"/>
