@@ -15,12 +15,3 @@ web  $  sccode.pl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-<div align="left">
-  <a href="https://discord.gg/Z7ftEy7mGA" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="40" alt="Discord" style="fill:#ffffff"/>
-  </a>
-  <a href="https://sccode.pl" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetexplorer.svg" height="40" alt="Website" style="fill:#ffffff"/>
-  </a>
-</div>
-
