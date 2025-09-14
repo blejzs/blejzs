@@ -18,4 +18,5 @@ web  $  sccode.pl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
 </div>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/627383159457054742?theme=dark)](https://discord.com/users/627383159457054742)
 
