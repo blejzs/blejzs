@@ -7,6 +7,8 @@ srv  $  dsc.gg/sccode
 web  $  sccode.pl
 ```
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/627383159457054742?theme=dark)](https://discord.com/users/627383159457054742)
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
@@ -17,6 +19,4 @@ web  $  sccode.pl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
 </div>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/627383159457054742?theme=dark)](https://discord.com/users/627383159457054742)
 
