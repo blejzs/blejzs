@@ -9,5 +9,5 @@ web  $  sccode.pl
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/627383159457054742?theme=dark)](https://discord.com/users/627383159457054742)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,tailwind,mysql,nodejs,cpp,java,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,tailwind,mysql,nodejs,discordjs,cpp,java,php)](https://skillicons.dev)
 
