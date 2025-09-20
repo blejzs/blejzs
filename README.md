@@ -19,4 +19,5 @@ web  $  sccode.pl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
 </div>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,tailwind,mysql,nodejs,cplusplus,java,php)](https://skillicons.dev)
 
