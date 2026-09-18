@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm blejzs
 
-<!--
-**blejzs/blejzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer from Poland. I'm interested in building software, product design, and creating things from scratch.
 
-Here are some ideas to get you started:
+I like working on projects that become something real rather than just staying as experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Find me here:** 🇵🇱 **Poland** · <a href="https://blejzs.pl" target="_blank" rel="noopener noreferrer">blejzs.pl</a> · <a href="https://x.com/blejzsdev" target="_blank" rel="noopener noreferrer">X</a>
+
+## My projects
+
+* **[Sigg](https://github.com/blejzs/sigg)** is an environment for running, testing, benchmarking, and comparing AI models.
+
+* **[Lowabul](https://github.com/lowabul)** is an independent project I'm building with [@rzeczka](https://github.com/rzeczka).
+
+* **Koven** is a visual builder for creating, automating, and exporting Discord bots.
+
+* **Whoap** was a product-focused project and the successor to FlameDevs.
+
+* **FlameDevs** was a project focused on building websites and Discord bots.
