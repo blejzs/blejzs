@@ -8,8 +8,6 @@ I like working on projects that become something real rather than just staying a
 
 ## My projects
 
-* **[Sigg](https://github.com/lowabul/sigg)** is an environment for running, testing, benchmarking, and comparing AI models.
-
 * **[Lowabul](https://github.com/lowabul)** is an independent project I'm building with [@rzeczka](https://github.com/rzeczka).
 
 * **Koven** is a visual builder for creating, automating, and exporting Discord bots.
