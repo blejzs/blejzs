@@ -4,7 +4,7 @@ I'm a developer from Poland. I'm interested in building software, product design
 
 I like working on projects that become something real rather than just staying as experiments.
 
-**Find me here:** <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f5-1f1f1.svg" width="18" height="18" alt="🇵🇱" style="vertical-align: middle;"> **Poland** · <a href="https://blejzs.pl" target="_blank" rel="noopener noreferrer">blejzs.pl</a> · <a href="https://x.com/blejzsdev" target="_blank" rel="noopener noreferrer">X</a>
+**Find me here:** <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f5-1f1f1.svg" width="18" height="18" alt="🇵🇱"> **Poland** · <a href="https://blejzs.pl" target="_blank" rel="noopener noreferrer">blejzs.pl</a> · <a href="https://x.com/blejzsdev" target="_blank" rel="noopener noreferrer">X</a>
 
 ## My projects
 
