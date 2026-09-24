@@ -8,7 +8,7 @@ I like working on projects that become something real rather than just staying a
 
 ## My projects
 
-* **[Lowabul](https://github.com/lowabul)** is an independent project I'm building with [@rzeczka](https://github.com/rzeczka).
+* **[Lowabul](https://github.com/lowabul)** is an independent project I'm building with [![Badge](https://badgegenerator.vercel.app/badge/rzeczka?bg=18181b&text=ffffff&radius=8.356151963006619&height=24&avatar=circle&tw=39)](https://github.com/rzeczka).
 
 * **Koven** is a visual builder for creating, automating, and exporting Discord bots.
 
